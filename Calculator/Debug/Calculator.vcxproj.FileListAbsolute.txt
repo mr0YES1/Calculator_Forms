@@ -1,0 +1,7 @@
+E:\Programming\C_C++\C++_Gosha _Dudar_WinForms\WinForms_2\WinForms_2\Debug\WinForms_2.vcxproj.AssemblyReference.cache
+E:\Programming\C_C++\C++_Gosha _Dudar_WinForms\WinForms_2\WinForms_2\Debug\WinForms2.MyForm.resources
+E:\Programming\C_C++\C++_Gosha _Dudar_WinForms\WinForms_2\WinForms_2\Debug\WinForms_2.vcxproj.GenerateResource.cache
+E:\Programming\C_C++\C++_Gosha _Dudar_WinForms\WinForms\WinForms_2\Debug\WinForms_2.vcxproj.AssemblyReference.cache
+E:\Programming\C_C++\C++_Gosha _Dudar_WinForms\WinForms\WinForms_2\Debug\WinForms2.MyForm.resources
+E:\Programming\C_C++\C++_Gosha _Dudar_WinForms\WinForms\WinForms_2\Debug\WinForms_2.vcxproj.GenerateResource.cache
+E:\Programming\C_C++\C++_Gosha _Dudar_WinForms\WinForms\WinForms_2\Debug\WinForms_2.vcxproj.SuggestedBindingRedirects.cache
